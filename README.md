@@ -34,8 +34,6 @@
 
 <p align='center'>
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img alt="Aleph.im" src="https://img.shields.io/badge/Aleph.im-0254FF?style=for-the-badge" />
-  <img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
 </p>
 <p align='center'>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
